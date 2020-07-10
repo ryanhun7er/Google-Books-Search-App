@@ -1,0 +1,5 @@
+.jumbotron {
+    background: rgb(2,22,109);
+    background: linear-gradient(90deg, rgba(2,22,109,0.6730042358740371) 0%, rgba(112,132,204,1) 23%, rgba(0,212,255,1) 100%);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}

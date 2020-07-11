@@ -1,4 +1,4 @@
-# Google Search Books App
+# Google Books Search App
 <img align="left" src="https://img.shields.io/badge/License-MIT-green" alt="license">
 <img align="right" width="100" height="100" src="https://avatars1.githubusercontent.com/u/59925546?s=400&u=19ccb48abfb0c61a5fa7dd875707b4e4a1025ff3&v=4" alt="Github Profile Image"><hr>
 

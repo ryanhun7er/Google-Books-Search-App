@@ -26,7 +26,9 @@ This React application allows you to search the Google Books database to save bo
 Search and save books
 
 <h2 id="apppreview">App Preview</h2>
-![gif](client/Images/books.gif)
+<img src="./client/public/Images/books.gif" alt="gif"
+
+
 
   
 <h2 id= "contact">Contact</h2>
